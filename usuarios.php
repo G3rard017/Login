@@ -1,7 +1,7 @@
 <?php
 $usuarios = [
-    "administrador" => '$2y$10$2IoMsrf6qaTT6/YfJtJcCOxomUL0yZEGUeB64a9Vqj1zWYIk2SCvK', // admin123
-    "vendedor1"     => '$2y$10$RZ8E6q.x.y7L5fJw/RRMFO5K2X1Xfx1Y8jlbDLWvagcMNgI8FG6HO', // venta1
-    "vendedor2"     => '$2y$10$3KM5j5RApZlfJvXGXmM6MuBe6Uqfh6E1xnnL7VYoAsOsv7Q3DLXhC', // venta2
+    "administrador" => '$2y$10$fuhdCjGpViVoCJwTkQUzWeNYidR7nVHEAyVRJSns5dc.g3jzFkHMi', // admin123
+    "vendedor1"     => '$2y$10$HgXKoKzyK4u49Y/8sE7rKeb8dVKmU2C4Hfr9NBDiPQ.zbFGgvWYgW', // venta1
+    "vendedor2"     => '$2y$10$ukBQRmvnv0VhybNo5qpGeuKDgLNkW8MgDML2CWvqOy57ExAkFENLG', // venta2
 ];
 ?>
